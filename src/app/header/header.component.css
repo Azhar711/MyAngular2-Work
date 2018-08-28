@@ -1,0 +1,21 @@
+.container{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(48, 47, 47);
+    margin-top: 1%;
+}
+
+.links ul,li, a{
+    display: inline;
+    text-decoration-line: none;
+    color: antiquewhite;
+    margin: 1em auto;
+    padding: 2%;
+    font-size: 16px;
+    font-style: initial;
+    text-decoration-color: beige;
+}
+
+a:hover{
+    color: aqua;
+}
